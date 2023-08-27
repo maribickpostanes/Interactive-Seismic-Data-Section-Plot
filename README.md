@@ -1,11 +1,10 @@
 # Interactive-Seismic-Data-Section-Plot
 This repository contains a Python script that uses the Plotly library to create an interactive web-based application for plotting seismic data sections from SEG-Y files.
 
-## Source Code and Data Credit
-The source code for this practice coding is from https://github.com/equinor/segyio-notebooks/blob/master/notebooks/pylops/01_seismic_inversion.ipynb. 
-I used the Plotly library to make the generated seismic data section plot interactive, instead of using Matplotlib.
-
+## Data Credit and Source Code
 Equinor ASA (formerly Statoil) and the former Volve license partners, ExxonMobil Exploration & Production Norway AS and Bayerngas Norge AS, are credited for providing the VOLVE dataset under CC BY 4.0 license.
+
+The code for this practice coding was adapted from the code found on Equinor's GitHub page, linked here: https://github.com/equinor/segyio-notebooks/blob/master/notebooks/pylops/01_seismic_inversion.ipynb. I used the Plotly library to make the generated seismic data section plot interactive, instead of using Matplotlib.
 
 ## Contributing
 Contributions to this open-source project are welcome. If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
