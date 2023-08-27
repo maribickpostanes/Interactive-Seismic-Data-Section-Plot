@@ -13,3 +13,5 @@ The code for this practice coding was adapted from the code found on Equinor's G
 Contributions to this open-source project are welcome. If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 Thank you so much for visiting and taking the time to read this GitHub repository. I hope this can contribute to other's work. Your support and interest are sincerely appreciated.
+
+https://github.com/maribickpostanes/Interactive-Seismic-Data-Section-Plot/assets/127098659/cd25084f-634e-4b6f-8372-7ddc2c8e0557
