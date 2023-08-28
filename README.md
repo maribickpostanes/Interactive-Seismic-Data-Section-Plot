@@ -2,7 +2,7 @@
 This repository contains a Python script that uses the Plotly library to create an interactive web-based application for plotting seismic data sections from SEG-Y files.
 
 ## Note on the Uploaded Github Files
-The uploaded python code file (`Seismic Data Section Plot.ipynb`) and (`Seismic Data Section Plot (Reversed).ipynb`) is too big to display on Github. You can download the files from this repository and open it on Jupyter notebook or VS Studio Code. An alternative HTML file (`Seismic Data Section Plot.html`) is included in this repository, which showcases the interactive plot without the need to run the Jupyter Notebook. 
+The uploaded python code file (`Seismic Data Section Plot.ipynb`) is too big to display on Github. You can download the files from this repository and open it on Jupyter notebook or VS Studio Code. An alternative HTML file (`Seismic Data Section Plot.html`) is included in this repository, which showcases the interactive plot without the need to run the Jupyter Notebook. Additionally, the file (`Seismic Data Section Plot (Reversed).ipynb`) has been uploaded and updated to reverse the y-axis time values, as per the corrections of certain people. Thank you for your feedback.
 
 ## Data Credit and Source Code
 Equinor ASA (formerly Statoil) and the former Volve license partners, ExxonMobil Exploration & Production Norway AS and Bayerngas Norge AS, are credited for providing the VOLVE dataset under CC BY 4.0 license.
